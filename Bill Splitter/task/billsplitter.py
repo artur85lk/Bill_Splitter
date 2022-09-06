@@ -8,6 +8,6 @@ else:
     print("Enter the name of every friend (including you), each on a new line:")
     for i in range(0, number_of_friends):
         firstname = input()
-        surname = ""
+        surname = "0"
         names[firstname] = 0
     print(names)
