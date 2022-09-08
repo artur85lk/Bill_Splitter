@@ -15,4 +15,4 @@ else:
     for i,j in names.items():
         names[i] = bill_one_person
     print(names)
-# 2/4
+# 2/4 8.09.2022
